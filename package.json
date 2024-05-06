@@ -1,0 +1,11 @@
+{
+  "name": "@nishant1202/day3_hw",
+  "version": "1.0.0",
+  "description": "day3_homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishant",
+  "license": "ISC"
+}
